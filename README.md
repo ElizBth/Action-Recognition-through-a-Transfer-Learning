@@ -24,12 +24,12 @@ It is recommended that you work in a virtual environment. We worked with virtual
 
 #### 2. Inicialización del ambiente virtual 
 
-    > <code>source mdpi/bin/activate<\code>
+    source mdpi/bin/activate
      
 
 #### 3. Instalación de paquetes 
 
-    > <code>pip install opencv-python 
+    pip install opencv-python 
 
     pip install matplotlib seaborn 
 
@@ -37,21 +37,21 @@ It is recommended that you work in a virtual environment. We worked with virtual
 
     pip install cython-bbox 
 
-    pip install motmetrics <\code>
+    pip install motmetrics
 
  
 #### Instalación de dependencias para FAIRMOT 
 
-    ><code>git clone https://github.com/lucasjinreal/DCNv2_latest.git 
+    git clone https://github.com/lucasjinreal/DCNv2_latest.git 
 
     cd DCNv2_latest/ 
 
-    python setup.py build develop <\code>
+    python setup.py build develop
 
 ## Training
 For training, there is needed to process all the video frames such as it is mencioned in the work. Then, in the file tf_fine_tunning_test_opFlow_rgb.py modify "ds_file" the directory where the csv with videos are allocated.
 
->python tf_fine_tunning_test_opFlow_rgb.py 
+    python tf_fine_tunning_test_opFlow_rgb.py 
     
 ## References
 
