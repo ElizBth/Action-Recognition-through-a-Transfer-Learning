@@ -1,5 +1,6 @@
-# Action Recognition in Videos through a Transfer Learning based Technique
-##By:  López-Lozada, E.; Sossa, H.; Rubio-Espino, E.; Montiel-Pérez, J. Y.
+# Action Recognition in Videos through a Transfer Learning based Technique 
+By:  López-Lozada, E.; Sossa, H.; Rubio-Espino, E.; Montiel-Pérez, J. Y.
+
 ## Introduction 
 ##---
 
