@@ -53,7 +53,9 @@ It is recommended that you work in a virtual environment. We worked with virtual
 For training, there is needed to process all the video frames such as it is mencioned in the work. Then, in the file tf_fine_tunning_test_opFlow_rgb.py modify "ds_file" the directory where the csv with videos are allocated.
 
     python tf_fine_tunning_test_opFlow_rgb.py 
-    
+## Citation 
+López-Lozada, E.; Sossa, H.; Rubio-Espino, E.; Montiel-Pérez, J. Y. Action Recognition in Videos Through a Transfer Learning Based Technique. Preprints 2024, 2024061670. https://doi.org/10.20944/preprints202406.1670.v1
+
 ## References
 
 - Zhang, Y.; Wang, C.; Wang, X.; Zeng, W.; Liu, W. FairMOT: On the Fairness of Detection and Re-identification in Multiple Object Tracking. International Journal of Computer Vision 2021, 129, 3069–3087. https://doi.org/10.1007/s11263-021-01513-4.
